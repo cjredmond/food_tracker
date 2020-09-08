@@ -2,3 +2,4 @@ node_modules
 ./food/node_modules
 api/.env
 .env
+dist
