@@ -38,7 +38,7 @@ const app: express.Application = express();
 //     }
 // );
 
-// if on prod 
+// if on prod
 // if (app.get("env") === "production") {
 //     // Serve secure cookies, requires HTTPS
 //     session.cookie.secure = true;
